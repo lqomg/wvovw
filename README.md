@@ -24,7 +24,7 @@
 
 <p align="center">
   
-  <img src="./public/images/markdwon.png" width="90%" />
+  <img src="./public/images/markdown.png" width="90%" />
 
 </p> 
 
