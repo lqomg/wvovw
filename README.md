@@ -1,38 +1,24 @@
-## 什么是 哇噢呜 WvovW?
+## 什么是 MD Video?
 
 
+> **MD Video**，是一个桌面软件，自动将 Markdown 文档转成一段视频输出的短视频编辑器，支持在编写文档时实时预览视频.
+> 会自动提取文档里面的视频、音频、图片网址、标题、代码块、图表、列表等元素，抓取后插入生成视频，还可以根据文字生成人工语音的旁白朗读。
 
-> **哇噢呜 WvovW**，是一个桌面软件，自动将 Markdown 文档转成一段视频的短视频编辑器.
-> 高效，二次创作，人物角色，文本/视频搬运，免费，无水印，AI语音，短视频解析，120GB免费素材资源...让视频创作更简单
+参看详情：
 
-更多请访问[https://www.wvovw.com](https://www.wvovw.com) 查看详情！
+[官网](https://mdvideo.wvovw.com/)
 
-## 安装之后无法正常运行，提示错误
+[演示地址](https://mdvideo.wvovw.com/guide/what-is-wvovw.html)
 
- 一些电脑需要安装Visual Studio 2010，点击下面链接下载并安装。
+## 示例
 
-[Visual Studio 2010(x86)](https://download.microsoft.com/download/1/6/5/165255E7-1014-4D0A-B094-B6A430A6BFFC/vcredist_x86.exe)
+<video src="./public/demo/mdvideo.mp4"></video>
 
-[Visual Studio 2010(x64)](https://download.microsoft.com/download/1/6/5/165255E7-1014-4D0A-B094-B6A430A6BFFC/vcredist_x64.exe)
-
-也可前往微软官方下载：
-
-[https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+![动画](https://github.com/lqomg/mdvideo/assets/29908531/9d2cb5cb-f57c-4842-973f-0d45e1db345c)
 
 
- 其他问题请加群：`576301295`
+![image](https://github.com/lqomg/mdvideo/assets/29908531/f286b872-775f-4699-b56b-8f2dae56f0cb)
 
-## TODO
-
-- [x] 支持多进程执行脚本渲染视频(避免页面卡顿)
-- [x] 导出进度提示
-- [x] 支持软件自动更新
-- [x] 支持卡通动画
-- [x] 支持素材资源包导入(正在整理中...)
-- [x] 支持视频裁剪
-- [x] 支持抖音短视频一键解析和下载编辑
-- [ ] 支持Markdown转视频的实时预览效果
-- [ ] 支持自定义动画
 
 
 ## 部分功能截图
